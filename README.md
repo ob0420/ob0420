@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olya
-- 👀 I’m software engineer
-- 🌱 I’m currently learning Java
+- 👀 I’m DevSecOps Engineer / Masters Student in CyberSecurity
+- 🌱 Currently passionate about Cloud Computing
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 You can reach me via email
 
